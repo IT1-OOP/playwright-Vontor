@@ -1,0 +1,1 @@
+nadpis_2 = page.locator("text='Nadpis 2'")
