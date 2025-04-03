@@ -1,0 +1,4 @@
+pip
+pytest
+pytest-playwright
+
